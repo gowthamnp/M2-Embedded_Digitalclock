@@ -6,8 +6,8 @@ The heat control system is used to control the temperature of the car seat. When
 
  Components used-
    ATmega328 microcontroller 
-   temperature sensor (Potentiometer)
-   Switches(button and heater)
+   Potentiometer
+   Switches
    LED 
    LCD diplay
 
