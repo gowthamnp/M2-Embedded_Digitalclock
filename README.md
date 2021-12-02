@@ -1,4 +1,5 @@
 # M2-Embedded_Heatcontrolsystem
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/c81c4a08a7fe46ffab914126bf11a6f4)](https://app.codacy.com/gh/gowthamnp/M2-Embedded_Heatcontrolsystem?utm_source=github.com&utm_medium=referral&utm_content=gowthamnp/M2-Embedded_Heatcontrolsystem&utm_campaign=Badge_Grade_Settings)
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/b7443246d5534045b3a400afcfcf6564)](https://www.codacy.com/gh/gowthamnp/M2-Embedded_Heatcontrolsystem/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=gowthamnp/M2-Embedded_Heatcontrolsystem&amp;utm_campaign=Badge_Grade)
 [![c-cppcheck](https://github.com/gowthamnp/M2-Embedded_Heatcontrolsystem/actions/workflows/cpp.yml/badge.svg)](https://github.com/gowthamnp/M2-Embedded_Heatcontrolsystem/actions/workflows/cpp.yml)
 [![codequality CI](https://github.com/gowthamnp/M2-Embedded_Heatcontrolsystem/actions/workflows/codequality.yml/badge.svg)](https://github.com/gowthamnp/M2-Embedded_Heatcontrolsystem/actions/workflows/codequality.yml)
