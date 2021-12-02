@@ -3,3 +3,4 @@
 [![c-cppcheck](https://github.com/gowthamnp/M2-Embedded_Heatcontrolsystem/actions/workflows/cpp.yml/badge.svg)](https://github.com/gowthamnp/M2-Embedded_Heatcontrolsystem/actions/workflows/cpp.yml)
 [![codequality CI](https://github.com/gowthamnp/M2-Embedded_Heatcontrolsystem/actions/workflows/codequality.yml/badge.svg)](https://github.com/gowthamnp/M2-Embedded_Heatcontrolsystem/actions/workflows/codequality.yml)
 [![compile-linux](https://github.com/gowthamnp/M2-Embedded_Heatcontrolsystem/actions/workflows/compail.yml/badge.svg)](https://github.com/gowthamnp/M2-Embedded_Heatcontrolsystem/actions/workflows/compail.yml)
+[![gitinspector](https://github.com/gowthamnp/M2-Embedded_Heatcontrolsystem/actions/workflows/gitinspector.yml/badge.svg)](https://github.com/gowthamnp/M2-Embedded_Heatcontrolsystem/actions/workflows/gitinspector.yml)
